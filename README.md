@@ -15,4 +15,4 @@ Voici une liste de mes certificats de formation :
 
 ---
 
-*Ces certificats reflètent mes compétences en programmation et en apprentissage automatique.*
+
