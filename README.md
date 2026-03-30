@@ -16,5 +16,5 @@ Voici une liste de mes certificats de formation :
 ---
 ## Conferences
 Conference on Intelligent Systems and Computer Vision (ISCV 2024)
-**[the Sixth edition of the International Conference on Intelligent Systems and Computer Vision (ISCV 2024)]([https://learn.365datascience.com/certificates/CC-D7FD04F20C/](https://www.iscvconf.com/2024/))**  
+**[the Sixth edition of the International Conference on Intelligent Systems and Computer Vision (ISCV 2024)](https://www.iscvconf.com/2024/)**  
   The ISCV2024 conference seeks original and high quality papers in the fields of Intelligent Systems and Information Management, Computer Vision and Image Understanding and applications of technologies in various fields.
