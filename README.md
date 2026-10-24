@@ -12,6 +12,8 @@ Voici une liste de mes certificats de formation :
 
 3. **[Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/d41bbd8fc3fdb7fd1e191cf4d12f90e85f2c010f?raw=1)**  
    Formation intermédiaire pour approfondir les connaissances en Python et manipuler des structures de données plus complexes.
+4. **[Agents](file:///C:/Users/Admin/Downloads/image.webp)**  
+   Formation intermédiaire pour approfondir les connaissances en Python et manipuler des structures de données plus complexes.
 
 ---
 ## Conferences
