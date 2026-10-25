@@ -3,6 +3,9 @@
 Voici une liste de mes certificats de formation :
 
 ## Certificats
+1. **[introduction to LLMs](https://cdn-uploads.huggingface.co/production/uploads/noauth/72feg7jHAS5BEGRBRcVn5.webp)**  
+   Formation intermédiaire pour approfondir les connaissances en Python et manipuler des structures de données plus complexes.
+
 1. **[Agents](https://cdn-uploads.huggingface.co/production/uploads/noauth/VW5D54np5exzcQKHK-HyL.webp)**  
    Formation intermédiaire pour approfondir les connaissances en Python et manipuler des structures de données plus complexes.
 
