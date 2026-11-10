@@ -11,6 +11,8 @@ Voici une liste de mes certificats de formation :
 
 2. **[Machine Learning with Support Vector Machines](https://learn.365datascience.com/certificates/CC-D7FD04F20C/)**  
    Formation axée sur l'apprentissage des SVM pour la classification et la régression en Machine Learning.
+2. **[Math Foundation for ML](https://learn.365datascience.com/certificates/CC-4A582622E0/)**  
+   Formation axée sur l'apprentissage des SVM pour la classification et la régression en Machine Learning.
 
 3. **[Introduction to Python for Developers](https://www.datacamp.com/statement-of-accomplishment/course/fe409909d494d8cccb69edc6fb23810821cac1d2?raw=1)**  
    Formation d'introduction à Python, couvrant les bases du langage et la programmation orientée objet.
